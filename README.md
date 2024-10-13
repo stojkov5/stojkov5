@@ -45,6 +45,6 @@ Here are a few projects I've worked on:
 ## 💬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/aleksandar-stojkov-97451829b/)
-- [Twitter](soon)
-- [Portfolio Website](soon)
+- [Twitter] soon 
+- [Portfolio Website] soon 
 
