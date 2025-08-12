@@ -28,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 Here are a few projects I've worked on:
 
+### First JS Project (https://github.com/stojkov5/FinRule)
+**Description**: Online Banking solution webpage.
+**Technologies**: React,CSS,AntDesign,Tailwind,
+
 ### My First Project (https://github.com/stojkov5/First-Project-ZFK-Borec)
 **Description**: It's a simple website about a womens football club in Macedonia.
 **Technologies**: HTML, CSS, Bootstrap
